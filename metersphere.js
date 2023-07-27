@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         meterphere 助手
 // @license MIT
-// @namespace    http://tampermonkey.net/
-// @version      0.3
+// @namespace    https://github.com/hao1032/tmScript
+// @homepage     https://github.com/hao1032/tmScript
+// @supportURL   https://github.com/hao1032/tmScript
+// @version      0.4
 // @description  metershpere 辅助
 // @author       hao1032
 // @match        http://ms.**/
