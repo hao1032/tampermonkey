@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name         meterphere
+// @name         meterphere 助手
+// @license MIT
 // @namespace    http://tampermonkey.net/
-// @version      0.2
-// @description  try to take over the world!
-// @author       You
+// @version      0.3
+// @description  metershpere 辅助
+// @author       hao1032
 // @match        http://ms.**/
 // @match        https://cloud.metersphere.com/
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=metersphere.com
 // @grant        none
 // ==/UserScript==
 
