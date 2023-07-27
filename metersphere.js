@@ -4,11 +4,11 @@
 // @namespace    https://github.com/hao1032/tmScript
 // @homepage     https://github.com/hao1032/tmScript
 // @supportURL   https://github.com/hao1032/tmScript
-// @version      0.4
+// @version      0.5
 // @description  metershpere 辅助
 // @author       hao1032
-// @match        http://ms.**/
-// @match        https://cloud.metersphere.com/
+// @include      *://ms.*.cc/*
+// @match        https://cloud.metersphere.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=metersphere.com
 // @grant        none
 // ==/UserScript==
